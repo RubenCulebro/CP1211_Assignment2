@@ -1,0 +1,19 @@
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(3, 96, 82);
+    letter-spacing: 4px;
+    word-spacing: 5px;
+    text-align: center;
+    background-color: bisque;
+}
+  
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: black;
+}
